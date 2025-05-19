@@ -21,3 +21,7 @@ pip install -r requirements.txt
 python crew/crew.py
 
 Input topic is manually done You can change it on going to crew.py file
+
+
+(important Add .env file)
+
